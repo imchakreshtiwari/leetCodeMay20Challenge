@@ -13,3 +13,4 @@ slope from p1 and p2 is y - y1 / x - x1
 slope from p2 and p3 is y2 - y1 / x2 - x1
 if these two slopes equal, then p1, p2, p3 lies on same line.
 9. valid Perfect Square we can solve by directly getting square root of number and then just comparing whether is is integer or not.
+10. Remove Kd difits Problem is like find lowest number so for that we should have smallesst digit at stating  and remove large digits from starting we  used StringBuffer Here.
